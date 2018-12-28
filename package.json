@@ -1,0 +1,17 @@
+{
+  "name": "jvl",
+  "version": "0.0.1",
+  "description": "Render vega-lite charts in IJavascript Jupyter notebooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Levine",
+  "license": "ISC",
+  "repository": "https://github.com/nickslevine/jvl",
+  "keywords": ["data", "data-analysis", "vega", "vega-lite", "data", "chart", "dataviz"],
+  "dependencies": {
+    "vega": "^4.4.0",
+    "vega-lite": "^3.0.0-rc10"
+  }
+}

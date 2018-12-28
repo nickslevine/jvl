@@ -1,0 +1,15 @@
+{
+  "name": "jvl",
+  "version": "0.0.1",
+  "description": "Render vega-lite in Jupyter notebooks using the ijavascript kernel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Levine",
+  "license": "ISC",
+  "dependencies": {
+    "vega": "^4.4.0",
+    "vega-lite": "^3.0.0-rc10"
+  }
+}
