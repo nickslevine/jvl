@@ -2,7 +2,7 @@
 
 jvl is a tiny helper function for embedding [vega-lite](https://vega.github.io/vega-lite/) charts in Jupyter notebooks that are using the [IJavaScript](https://github.com/n-riesco/ijavascript) kernel. 
 
-## To Install
+## Usage 
 
 Install Jupyter and the IJavascript kernel - see instructions [here](https://github.com/n-riesco/ijavascript). 
 
